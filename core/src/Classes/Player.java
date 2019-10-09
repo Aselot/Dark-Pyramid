@@ -13,7 +13,7 @@ import com.badlogic.gdx.math.Vector2;
 public class Player extends Sprite implements InputProcessor {
 //    public int cordinateX
 //    public int cordinateY
-
+// duh
     private Vector2 velocity = new Vector2();
     private float speed = 100;
     private TiledMapTileLayer collisionLayer;
